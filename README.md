@@ -11,4 +11,4 @@ Am Projekt Arbeiten
 
 ## Projektidee 
 
-Wie hat sich die Kindersterblichkeitsrate in ausgwählten Ländern im verlaufe der Zeit veränder?
+Wie hat sich die Kindersterblichkeitsrate in den ausgwählten Ländern im verlaufe der Zeit verändert?
